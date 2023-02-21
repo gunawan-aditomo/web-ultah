@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: #47B5FF;
+    color: black;
+    font-family: 'Itim', cursive;
+}
+img{
+    max-width: 70%;
+    height: auto;
+}
